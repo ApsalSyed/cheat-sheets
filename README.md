@@ -8,7 +8,7 @@ This repository serves as a central location for helpful reference materials to 
 
 ## 🗂️ Contents
 
-The repository contains cheat sheets for:
+The repository will contains cheat sheets for:
 
 - Programming Languages (Python, JavaScript, etc.)
 - Frameworks and Libraries
